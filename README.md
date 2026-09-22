@@ -16,6 +16,8 @@ Each writeup follows a consistent methodology:
 ## Writeups
 
 - [Metasploitable2 — vsftpd 2.3.4 Backdoor RCE](./Metasploitable2-vsftpd-RCE-Writeup.md)
+- [Metasploitable2 — Samba usermap_script RCE (CVE-2007-2447)](./Metasploitable2-Samba-usermap_script-RCE-Writeup.md)
+- [Metasploitable2 — MySQL Blank Root Password](./Metasploitable2-MySQL-Blank-Password-Writeup.md)
 
 ## Tools Used
 
